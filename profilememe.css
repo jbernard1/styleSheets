@@ -3,3 +3,11 @@
   margin-bottom: 10%; 
   width: 100%;
 }
+
+.pm.module-container .module-body{
+  height: 100%;
+}
+
+.pm.module-container .module-body table{
+  height: 100%;
+}
