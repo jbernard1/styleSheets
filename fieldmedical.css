@@ -1,0 +1,13 @@
+.fm.module-container{
+  height:33%; 
+  margin-bottom: 10%; 
+  width: 100%;
+}
+
+.fm.module-container .module-body{
+  height: 100%;
+}
+
+.fm.module-container .module-body table{
+  height: 100%;
+}
